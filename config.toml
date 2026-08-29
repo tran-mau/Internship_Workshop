@@ -11,14 +11,14 @@ home = [ "HTML", "RSS", "JSON"]
   # Git hub repo link
   editURL = ""
   description = ""
-  author = "journeyoftheaverageguy@gmail.com"
+  author = "mautranvo44@gmail"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
   
 [Languages]
 [Languages.en]
-title = "Create a new AWS account."
+title = "Internship report"
 weight = 1
 languageName = "English"
 
@@ -35,7 +35,7 @@ url = "https://www.facebook.com/groups/awsstudygroupfcj"
 weight = 20
 
 [Languages.vi]
-title = "Tạo mới tài khoản AWS"
+title = "Báo cáo thực tập"
 weight = 2
 languageName = "Tiếng Việt"
 

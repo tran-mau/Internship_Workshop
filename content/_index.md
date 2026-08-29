@@ -44,6 +44,6 @@ chapter : false
 
 4. [Self-Assessment]({{< relref "4-Self-Assessment" >}})
 
-5. [Workshop]({{< relref "5-Workshop" >}})
+<!-- 5. [Workshop]({{< relref "5-Workshop" >}}) -->
 
 6. [Sharing and Feedback]({{< relref "6-Sharing-Feeback" >}})

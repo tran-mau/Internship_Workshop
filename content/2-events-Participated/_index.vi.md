@@ -16,7 +16,7 @@ Trong quá trình thực tập, em đã tham gia các sự kiện với mỗi s�
 
 **Địa điểm tổ chức:** Tầng 7, Grand Terra Tower, 36 Cát Linh, Đống Đa, Hà Nội.
 
-**Đơn vị tổ chức:** Team AWS VIETNAM COMMUNITY First Cloud Journey  
+**Đơn vị tổ chức:** Team AWS VIETNAM COMMUNITY (AWS First Cloud Journey AI)  
 
 **Vai trò tham gia:** Người tham dự  
   
