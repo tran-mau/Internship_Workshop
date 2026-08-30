@@ -1,5 +1,4 @@
 baseURL = "https://tran-mau.github.io/Internship_Workshop/"
-defaultContentLanguage = "vi"
 canonifyURLs = true
 
 
