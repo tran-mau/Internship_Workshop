@@ -3,7 +3,7 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches:
-      - main # Hoặc master (Tùy thuộc nhánh chính trên GitHub của bạn tên là gì)
+      - main 
 
 permissions:
   contents: read
