@@ -1,4 +1,4 @@
-baseURL = "https://Internship_Workshop.github.io"
+baseURL = "https://tran-mau.Internship_Workshop.github.io"
 defaultContentLanguage = "vi"
 
 # Change the default theme to be use when building the site with Hugo
