@@ -1,9 +1,13 @@
+baseURL = "https://github.io"
+defaultContentLanguage = "vi"
+
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+page = ["HTML"]
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
