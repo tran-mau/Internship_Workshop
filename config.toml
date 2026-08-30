@@ -1,5 +1,7 @@
 baseURL = "https://tran-mau.github.io/Internship_Workshop/"
 defaultContentLanguage = "vi"
+canonifyURLs = true
+
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
